@@ -1,0 +1,46 @@
+<view>
+  <swiper indicator-dots='true' autoplay='true' interval='2000' indicator-color='rgba(200, 198, 186, .8)'>
+    <swiper-item>
+    <image src="/images/post/bl.png"></image>
+    </swiper-item>
+    <swiper-item>
+    <image src="/images/post/vr.png"></image>
+    </swiper-item>
+    <swiper-item>
+    <image src="/images/post/sls.jpg"></image>
+    </swiper-item>
+  </swiper>
+
+  <view class="post-container">
+    <view class="post-author-date">
+      <image class="post-author" src="/images/avatar/1.png"></image>
+      <text class="post-date">Nov 25 2018</text>
+    </view>
+    <text class="post-title">正是虾肥蟹壮时</text>
+    <image class="post-image" src="/images/post/crab.png"></image>
+    <text class="post-content">CBA第9轮，广东队下半场发威，125-110逆转取胜广州队豪取9连胜。落后困境之时，是队长周鹏果断扛起进攻大旗，并带队在第三节强势反超奠定胜局。全场比赛，周鹏17投11中，其中3分球7投3中，高效率拿下26分5篮板6助攻。没有“一哥”阿联，周队稳定扛起球队。</text>
+    <view class="post-like">
+     <image class="post-like-image" src="/images/icon/chat.png"></image>
+     <text class="post-like-font">62</text>
+     <image class="post-like-image" src="/images/icon/star.png"></image>
+     <text class="post-like-font">92</text>
+    </view>
+  </view>
+ <view class="post-container">
+    <view class="post-author-date">
+      <image class="post-author" src="/images/avatar/2.png"></image>
+      <text class="post-date">Nov 25 2018</text>
+    </view>
+    <text class="post-title">正是虾肥蟹壮时</text>
+    <image class="post-image" src="/images/post/sls.jpg"></image>
+    <text class="post-content">CBA第9轮，广东队下半场发威，125-110逆转取胜广州队豪取9连胜。落后困境之时，是队长周鹏果断扛起进攻大旗，并带队在第三节强势反超奠定胜局。全场比赛，周鹏17投11中，其中3分球7投3中，高效率拿下26分5篮板6助攻。没有“一哥”阿联，周队稳定扛起球队。</text>
+    <view class="post-like">
+     <image class="post-like-image" src="/images/icon/chat.png"></image>
+     <text class="post-like-font">62</text>
+     <image class="post-like-image" src="/images/icon/star.png"></image>
+     <text class="post-like-font">92</text>
+    </view>
+  </view>
+
+
+</view>
