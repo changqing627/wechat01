@@ -5,16 +5,13 @@
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"nodeModules": true
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.91",
 	"appid": "touristappid",
 	"projectname": "ReaderAndMovie",
-	"svr": "",
-	"client": "",
-	"qcloudRoot": "",
-	"miniprogramRoot": "",
 	"condition": {
 		"search": {
 			"current": -1,
