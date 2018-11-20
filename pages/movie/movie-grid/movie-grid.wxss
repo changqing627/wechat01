@@ -1,0 +1,6 @@
+@import "../movie-template/movie.wxss";
+
+.single-view-container{
+  float:left;
+  margin-bottom:40rpx;
+}

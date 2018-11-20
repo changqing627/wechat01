@@ -11,7 +11,12 @@ var localdatabase=[
     author:'林白衣',
     dateTime:'24小时前',
     detail: '行行重行行，与君生别离相去万余里，各在天一涯；道路阻且长，会面安可知？胡马依北风，越鸟巢南枝。相去日已远，衣带日已缓；浮云蔽白日，游子不顾反思君令人老，岁月忽已晚弃捐勿复道，努力加餐饭8！',
-    postId:0
+    postId:0,
+    music: {
+      url: "http://ws.stream.qqmusic.qq.com/M500001VfvsJ21xFqb.mp3?guid=ffffffff82def4af4b12b3cd9337d5e7&uin=346897220&vkey=6292F51E1E384E06DCBDC9AB7C49FD713D632D313AC4858BACB8DDD29067D3C601481D36E62053BF8DFEAF74C0A5CCFADD6471160CAF3E6A&fromtag=46",
+      title: "夜夜夜夜-齐秦",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001TEc6V0kjpVC.jpg?max_age=2592000"
+    }
   
   },
   {
@@ -26,7 +31,12 @@ var localdatabase=[
     author: '朴树',
     dateTime: '24小时前',
     detail: '如果我能烧毁了所有的记忆，也许，我的梦就透明了。如果我能扔掉所有的昨天，或许，我的脚步就轻盈了。记忆中的话语或许已模糊，但记忆中的情意依然清晰。我知道我爱过那灵魂已经不在这个时代了，他被留在了过去，现在我偶尔所能看到的，也只是曾经承载过他灵魂的躯体，当这个躯体用那种哀伤而无奈的眼神看着我的时候，我就知道他卸载了那个我爱过的灵魂。',
-    postId: 1
+    postId: 1,
+    music: {
+      url: "http://music.163.com/song/media/outer/url?id=108220.mp3",
+      title: "鬼迷心窍-李宗盛",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000002xOmp62kqSic.jpg?max_age=2592000"
+    }
   },
   {
     date: 'Sep 18 2017',
@@ -40,7 +50,12 @@ var localdatabase=[
     author: '弗拉李',
     dateTime: '24小时前',
     detail: '我知道我爱过那灵魂已经不在这个时代了，他被留在了过去，现在我偶尔所能看到的，也只是曾经承载过他灵魂的躯体，当这个躯体用那种哀伤而无奈的眼神看着我的时候，我就知道他卸载了那个我爱过的灵魂。',
-    postId: 2
+    postId: 2,
+    music: {
+      url: "http://music.163.com/song/media/outer/url?id=27538254.mp3",
+      title: "女儿情-万晓利",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004Wv5BO30pPc0.jpg?max_age=2592000"
+    }
   },
   {
     date: 'Sep 18 2017',
@@ -54,7 +69,12 @@ var localdatabase=[
     author: '梵高',
     dateTime: '24小时前',
     detail: '不知道他是什么时间剥离的，也不知道他把那个灵魂留在了哪个时间段了，我只知道是过去。',
-    postId: 3
+    postId: 3,
+    music: {
+      url: "http://music.163.com/song/media/outer/url?id=108119.mp3",
+      title: "恋恋风尘-老狼",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001VaXQX1Z1Imq.jpg?max_age=2592000",
+    }
   },
   {
     date: 'Sep 18 2017',
@@ -68,7 +88,12 @@ var localdatabase=[
     author: '毕加索',
     dateTime: '24小时前',
     detail: '曾经沧海难为水，或许，我已很难打开自己的心去装进另一个人了吧？除非…除非…那个人身上有那种熟悉的感觉。',
-    postId: 4
+    postId: 4,
+    music: {
+      url: "http://music.163.com/song/media/outer/url?id=188204.mp3",
+      title: "沉默是金-张国荣",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000003at0mJ2YrR2H.jpg?max_age=2592000"
+    }
   },
 ]
 

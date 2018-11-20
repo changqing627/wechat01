@@ -2,10 +2,33 @@
   "pages": [
     "pages/welcome/welcome",
     "pages/posts/post",
-    "pages/posts/post-detail/post-detail"
+    "pages/posts/post-detail/post-detail",
+    "pages/movie/move",
+    "pages/movie/stars-template/stars",
+    "pages/movie/movie-template/movie",
+    "pages/movie/movie-list-template/movie-list",
+    "pages/movie/moreMovie/moreMovie",
+    "pages/movie/movie-grid/movie-grid"
   ],
-  "window":{
-    "navigationBarBackgroundColor": "#405f80"
+  "window": {
+    "navigationBarBackgroundColor": "#405f80",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "selectedColor": "#405f80",
+    "list": [
+      {
+        "pagePath": "pages/posts/post",
+        "text": "阅读文章",
+        "iconPath": "images/tab/yuedu.png",
+        "selectedIconPath": "images/tab/yuedu_hl.png"
+      },
+      {
+        "pagePath": "pages/movie/move",
+        "text": "电影频道",
+        "iconPath": "images/tab/dianying.png",
+        "selectedIconPath": "images/tab/dianying_hl.png"
+      }
+    ]
   }
-    
 }
